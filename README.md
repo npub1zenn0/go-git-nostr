@@ -1,0 +1,3 @@
+# nostr-git-cli
+
+Hi
