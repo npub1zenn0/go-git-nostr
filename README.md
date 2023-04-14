@@ -8,7 +8,7 @@ Download latest binaries from the releases page. https://github.com/npub1zenn0/g
 
 ```sh
 $ # You'll have to fix the version
-$ VERSION=v0.0.0 wget "https://github.com/npub1zenn0/go-git-nostr/releases/download/$VERSION/git-nostr-{send,show}-$VERSION-linux-amd64.tar.gz"
+$ VERSION=v0.0.0 wget https://github.com/npub1zenn0/go-git-nostr/releases/download/$VERSION/git-{send,show}-nostr-$VERSION-linux-amd64.tar.gz
 $ tar -xzf <file>.tar.gz
 ```
 
